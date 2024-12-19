@@ -21,3 +21,7 @@
   <p align="center">
   <img src = 'https://github.com/Jim2E/Real-Time-Flow-Monitor/blob/main/Liq%3ASpot%3APerp.png' width = "580">
   </p>
+
+  Load template .json file in aggregator app.
+
+  Credits: Tucksy, Aggregator app:https://github.com/Tucsky/aggr
